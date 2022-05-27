@@ -1,1 +1,2 @@
-# wireframe-html-guillermo-quiroga-navarro
+# wireframe y html
+Alumno: Guillermo Quiroga Navarro
